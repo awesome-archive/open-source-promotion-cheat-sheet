@@ -4,15 +4,15 @@
 
 <p align="center">
   <a href="https://twitter.com/intent/tweet?text=How%20to%20promote%20your%20open-source%20projects%20@ZenikaOSS&url=https://github.com/zenika-open-source/open-source-promotion-cheat-sheet&hashtags=OpenSource,CheatSheet">
-    <img alt="tweet" src="https://img.shields.io/twitter/url/https/twitter?label=Partager%20sur%20twitter&style=social" target="_blank" />
+    <img alt="tweet" src="https://img.shields.io/twitter/url/https/twitter?label=%E5%88%86%E4%BA%AB%E5%88%B0twitter&style=social" target="_blank" />
   </a>
 </p>
 
-<h1 align="center">Cheat sheet : Promouvoir un projet open-source</h1>
+<h1 align="center">开源项目推广备忘单</h1>
 
-> Ce cheat sheet résume les étapes importantes à suivre pour promouvoir un projet open-source dans les meilleures conditions. Il est possible d’afficher des informations supplémentaires pour un élément de la liste en cliquant dessus.
+> 这篇备忘单为您总结了一些关于如何最好地推广您的开源项目的重要步骤，您可以点击并展开下列选项以了解更多详情。
 
-Langages disponibles :
+现已支持以下语言：
 
 - [English](./README.md)
 - [Français](./README-fr.md)
@@ -23,98 +23,100 @@ Langages disponibles :
 - [پارسی](./README-fa.md)
 - [Português](./README-pt.md)
 
-Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat sheet ? [Les contributions sont les bienvenues](./CONTRIBUTING.md) !
+没有您需要的语言？希望帮忙改进这份备忘单？[欢迎您的贡献](./CONTRIBUTING.md)！
 
-## 1. 🎢 Préparation
+[我们也提供这份备忘单的 PDF 版本](./pdf/cheat-sheet.pdf)
+
+## 1. 🎢 准备阶段
 
 <br />
 
 <details>
-<summary>👌 S'assurer que le projet soit assez mature</summary>
+<summary>👌 保证您的项目已经足够成熟</summary>
 <p>
 
-> Assurez-vous que votre projet soit stable et possède un minimum de fonctionnalités intéressantes pour accrocher les visiteurs.
+> 您的项目必须足够稳定，并且拥有一些最低可行功能用以吸引用户们。
 
 </p>
 </details>
 
 <details>
-<summary>😎 Choisir un nom cool pour son projet</summary>
+<summary>😎 为您的项目挑选一个炫酷的名字</summary>
 <p>
 
-> Choisissez un nom que vos visiteurs pourront facilement retenir.
+> 挑选一个用户们能轻易记住的名字。
 
 </p>
 </details>
 
 <details>
-<summary>💅 Soigner la présentation du README</summary>
+<summary>💅 把您的README文档写得干净漂亮</summary>
 <p>
 
-> Le README est la première chose que les visiteurs verront sur la page de votre projet. Travaillez la présentation pour qu'elle soit simple, jolie et agréable à lire. [Vous trouverez des exemples de README soignés ici.](https://github.com/matiassingers/awesome-readme)
+> 您的访客们的第一件事就是阅读您的 README 文档，所以您得确保它干净漂亮、易于阅读。[这些优秀的 README 文档可以为您提供参考](https://github.com/matiassingers/awesome-readme)。
 
 </p>
 </details>
 
 <details>
-<summary>💪 Mettre en avant les points forts du projet</summary>
+<summary>💪 强调您的项目中最闪耀的亮点</summary>
 <p>
 
-> Identifiez les points forts de votre projet et mettez-les en avant de manière à ce que ce soit la première chose que voient vos visiteurs.
+> 找出您的项目的强大之处并确保您的访客们在第一时间了解到它们。
 
 </p>
 </details>
 
 <details>
-<summary>✨ Mettre une démo du projet à disposition</summary>
+<summary>✨ 提供一个您项目的演示或示例</summary>
 <p>
 
-> Vos visiteurs voudront comprendre rapidement à quel besoin répond votre projet et comment il fonctionne. Mettre une démo à disposition est un excellent moyen de satisfaire vos visiteurs. Le format de la démo peut être :
+> 访客们通常希望迅速了解您的项目的目标，它的工作原理以及应该如何使用它。为您的项目提供一个演示或者示例可以很好地满足访客们的需求，比如说：
 >
-> - un GIF animé
-> - un lien vers une démo en ligne
+> - 利用 GIF 动画来展示您项目的工作原理
+> - 提供一个在线演示的网页连接
 
 </p>
 </details>
 
 <details>
-<summary>👌 L'installation et l'utilisation du projet doivent être les plus simples possibles</summary>
+<summary>👌 安装和使用必须超级简单</summary>
 <p>
 
-> Vous risquez de perdre des visiteurs si le projet n'est pas simple à installer ou à utiliser.
+> 您的项目不够用户友好可能会造成访客们的流失。
 
 </p>
 </details>
 
 <details>
-<summary>📘 Créer une documentation soignée et structurée</summary>
+<summary>📘 创建一个干净整洁的结构化文档</summary>
 <p>
 
-> Créer une bonne documentation est probablement l'étape la plus importante. Si votre documentation n'est pas longue, vous pouvez l'inclure directement dans votre README. Si celle-ci est volumineuse, le mieux sera de l'héberger sur un site différent. Certains projets open-source comme [vuepress](https://v1.vuepress.vuejs.org) permettent de créer rapidement une jolie documentation.
+> 一个优秀的文档也许是最为重要的一步了。如果您的文档比较小的话，您可以直接将它包含在 README 文档里。否则的话，您或许应该将您的文档托管在一个独立的网站上面。一些开源项目比如 [vuepress](https://v1.vuepress.vuejs.org) 可以帮助您非常容易地创建干净整洁的文档。
 
  </p>
 </details>
 
 <br />
 
-## 2. 📢 Communiquer le projet
+## 2. 📢 宣传您的辛苦工作
 
 <br />
 
 <details>
-<summary>⭐ Mettre en confiance les futurs visiteurs avant de publier sur les réseaux sociaux</summary>
+<summary>⭐ 在社交网络上发布您的项目之前，保证它是可以信赖的</summary>
 <p>
 
-> La plupart des visiteurs regarderont le nombre de stars du projet avant de l'utiliser. Plus votre projet possède un nombre important de stars, plus son indice de fiabilité sera élevé. N'hésitez pas à demander à vos proches, collègues et amis de vous aider à améliorer la crédibilité de votre projet en ajoutant une star.
+> 许多访客会在考虑使用项目之前，先查看项目获得过得 star 数量。只需要一些 star 就能让您的项目比没有任何 star 的项目更加值得信赖，这就是为什么您应该在社交网络上公开宣布之前，请您认识的人支持您的项目。
 
 </p>
 </details>
 
 <details>
-<summary>↗️ Partager le projet sur les réseaux sociaux et les plateformes spécialisées</summary>
+<summary>↗️ 在社交媒体和专业平台上分享您的项目</summary>
 <p>
 
-> Voici quelques plateformes sur lesquelles vous pourriez partager votre travail :
+> 向世界展示您无与伦比的作品！您可以在以下社交媒体和专业平台上发布：
 >
 > - [Twitter](https://twitter.com)
 > - [Linkedin](https://www.linkedin.com/)
@@ -131,10 +133,10 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 </details>
 
 <details>
-<summary>📃 Écrire des articles en mentionnant le projet</summary>
+<summary>📃 写一些文章并且提及您的项目</summary>
 <p>
 
-> Écrivez des articles et citez votre projet. Le sujet de l'article peut être lié à la stack technique que vous avez utilisée, les problèmes que vous avez rencontrés, etc. Postez sur les plateformes de publication :
+> 为您的项目写一些关于您项目的文章。您可以在其中分享您使用到的技术栈、您项目的工作原理和您遇到过得问题等等。然后把这些文章发布在这些平台上：
 >
 > - [medium](https://medium.com/)
 > - [dev.to](https://dev.to/)
@@ -143,91 +145,91 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 </details>
 
 <details>
-<summary>🎤 Présenter le projet à des conférences/meetups</summary>
+<summary>🎤 在正式会议或线下聚会上介绍您的项目</summary>
 <p>
 
-> La présentation de votre projet à des conférences et meetups est un excellent moyen d'améliorer sa visibilité.
+> 在正式会议或线下聚会上介绍您的项目是提高知名度的好办法。
 
 </p>
 </details>
 
 <details>
-<summary>🎥 Enregistrer et publier des vidéos de présentation du projet</summary>
+<summary>🎥 记录并发布项目介绍和原理解释等的视频</summary>
 <p>
 
-> Enregistrez une vidéo n'est pas un exercice facile, cependant c'est l'un des moyens les plus efficaces pour rendre votre projet populaire.
+> 虽然录制视频并不轻松，但它也许是能让您的项目出名的最有效的办法。
 
 </p>
 </details>
 
 <details>
-<summary>🕐 Choisir le meilleur moment pour publier sur les réseaux sociaux</summary>
+<summary>🕐 选择最好的时间在社交媒体上发布</summary>
 <p>
 
-> Habituellement, le meilleur moment pour lancer une communication est en milieu de semaine. Ne faites pas de communication pendant les périodes de vacances ou le week-end.
+> 不要在假期或者周末发布您的项目。通常最适合在社交网络上发布的时间是一周里中间的那几天。
 
 </p>
 </details>
 
 <details>
-<summary>🗑 Ne pas spammer les plateformes avec la promotion du projet</summary>
+<summary>🗑 不要在平台上过度宣传</summary>
 <p>
 
-> Ne publiez pas deux fois sur la même plateforme. Votre communication pourra être considérée comme du spam et causer de la mauvaise publicité pour votre projet.
+> 不要在相同的平台上发布两次。这将会被视为过度的宣传，并且有可能为您的项目招致负面宣传。
 
 </p>
 </details>
 
 <br />
 
-## 3. 🤝 Garder les utilisateurs
+## 3. 🤝 留住您的用户们
 
 <br />
 
 <details>
-<summary>🆕 Mettre régulièrement à jour le projet</summary>
+<summary>🆕 尽量为您的项目定期发布新版本</summary>
 <p>
 
-> Maintenez et améliorez votre projet en publiant de nouvelles versions. N'oubliez pas de générer les changelogs associés.
+> 维护并且改进您的项目，比如：新版本的发布和撰写变更记录。
 
 </p>
 </details>
 
 <details>
-<summary>❗ Maintenir le projet et traiter les issues ouvertes</summary>
+<summary>❗ 维护您的项目并处理未解决的issue</summary>
 <p>
 
-> Ne laissez pas les issues sans réponse. Soyez courtois et sympathique avec les personnes qui ont pris le temps d'ouvrir des issues. 😉
+> 别让 issue 一直处于未解决的状态并且对此毫无回应。对那些花费自己时间提交 issue 的用户们好一点。 😉
 
 </p>
 </details>
 
 <details>
-<summary>🙏 Inviter les utilisateurs à contribuer</summary>
+<summary>🙏 邀请用户们为项目贡献</summary>
 <p>
 
-> Un projet en bonne santé est un projet qui possède une communauté et des contributeurs. Montrez à vos utilisateurs que leur aide est la bienvenue en taggant certaines issues avec les labels `contribution welcome` ou `good first issue`. [Vous trouverez plus d'information sur les labels en cliquant ici.](https://help.github.com/en/articles/about-labels)
+> 一个健康的项目通常拥有一个社区和许多贡献者们。在一些 issue 上标注`contribution welcome`标签或者`good first issue`标签来让您的用户们知道您需要帮助。[关于 github 标签](https://help.github.com/en/articles/about-labels)。
 
 </p>
 </details>
 
 <details>
-<summary>🏆 Récompenser les contributeurs</summary>
+<summary>🏆 奖励贡献者们</summary>
 <p>
 
-> Certains projets open-source comme [gatsby](https://github.com/gatsbyjs/gatsby) récompensent leurs contributeurs avec des goodies. Si vous n'en n'avez pas les moyens, faites une publication (sur twitter ou d'autres plateformes) qui mentionne la contribution et son auteur afin de le remercier (ex. : [Post sur twitter](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Vous pouvez aussi ouvrir une section `Contributors` sur votre README afin d'afficher publiquement votre gratitude envers vos contributeurs ou encore les mettre en avant sur le site ou la documentation de votre projet.
+> 为那些帮助过您的人们鼓掌喝彩! 一些开源项目像是[gatsby](https://github.com/gatsbyjs/gatsby)会奖励贡献者们一些小礼物。如果您负担不起，也可以在 twitter 或者其它平台上发布一封关于项目贡献的公开感谢信，并且提及那些贡献者们（[公开感谢信的示例](https://twitter.com/FranckAbgrall/status/1139470547492978688)）。在您的 README 文档里开设一个`贡献者`栏，以此公开地感谢贡献者们。或者您也可以在项目文档或网站上展示您的贡献者们。以下是一些示例：
 >
-> - [vuepress (section contributeurs dans le README)](https://github.com/vuejs/vuepress#code-contributors)
-> - [Rythm.js (Mise en avant de manière aléatoire d'un contributeur sur la page de démo)](https://okazari.github.io/Rythm.js/)
+> - [vuepress （在 README 中的贡献者栏）](https://github.com/vuejs/vuepress#code-contributors)
+> - [Rythm.js （在展示页面上随机显示贡献者）](https://okazari.github.io/Rythm.js/)
 
 </p>
 </details>
 
 <details>
-<summary>💬 Ouvrir un chat pour la communauté du projet</summary>
+<summary>💬 开设一个社区聊天平台</summary>
 <p>
 
-> Les issues Github ne sont pas toujours la meilleure manière de communiquer avec vos utilisateurs. Si nécessaire, vous pouvez ouvrir un chat pour discuter avec eux :
+> Github 的 issue 并不总是和您的用户沟通最好的地方。如果有需要的话，您可以使用一些聊天平台来和他们讨论：
 >
 > - [Discord](https://discordapp.com)
 > - [Slack](https://slack.com)
@@ -237,34 +239,34 @@ Une langue est manquante ? Vous pensez qu'il est possible d'améliorer ce cheat 
 </details>
 
 <details>
-<summary>🔙 Demander des retours utilisateurs</summary>
+<summary>🔙 寻求反馈</summary>
 <p>
 
-> Les retours des utilisateurs sont un excellent moyen d'améliorer votre projet. Vos utilisateurs ont probablement un tas d'idées qui pourraient rendre votre projet meilleur.
+> 用户反馈是改进您项目的最佳方法，他们也许有着能使您的项目变得更好的想法和主意。
 
 </p>
-
-<br />
 </details>
 
 <details>
-<summary>❤️ Montrer ce que les autres utilisateurs ont créé avec votre projet</summary>
+<summary>❤️ 建造一个用例库来展示您的用户是如何使用您的项目的</summary>
 <p>
 
-> Les visiteurs accorderont plus facilement leur confiance s'ils voient des cas concrets d'utilisation (ex. : [vuepress gallery](https://vuepress.gallery/)).
+> 如果访问者们能够见到具体的用例和成功案例的话，他们会更加信任您的项目，比如 [the vuepress gallery](https://vuepress.gallery/)。
 
 </p>
 </details>
 
 <br />
 
-## 🙏 Montrez votre support
+## 🙏 表示支持
 
-N'hésitez pas à mettre une ⭐ si ce projet vous a aidé.
+如果这份备用单能够帮助到您，请您支持并 ⭐️ 我们的 repository！
 
-## ❤️ Contributeurs
+<br />
 
-Merci à tous les formidables contributeurs:
+## ❤️ 贡献者们
+
+感谢这群无与伦比的人们：
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore -->
@@ -296,4 +298,4 @@ Merci à tous les formidables contributeurs:
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-Ce projet suit la spécification [all-contributors](https://github.com/all-contributors/all-contributors). Les contributions de tout type sont les bienvenues !
+该项目遵循[all-contributors](https://github.com/all-contributors/all-contributors)说明。欢迎任何形式的贡献！

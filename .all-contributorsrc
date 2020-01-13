@@ -1,6 +1,13 @@
 {
   "files": [
-    "README.md"
+    "README.md",
+    "README-fr.md",
+    "README-de.md",
+    "README-es.md",
+    "README-zh-cn.md",
+    "README-zh-tw.md",
+    "README-fa.md",
+    "README-pt.md"
   ],
   "imageSize": 100,
   "commit": false,
@@ -58,11 +65,111 @@
       "contributions": [
         "doc"
       ]
+    },
+    {
+      "login": "bpetetot",
+      "name": "Benjamin Petetot",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/516360?v=4",
+      "profile": "https://github.com/bpetetot",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "NickHatBoecker",
+      "name": "NickHatBoecker",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/8366071?v=4",
+      "profile": "https://nick-hat-boecker.de",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "claire",
+      "name": "Claire Martinez",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/5114096?v=4",
+      "profile": "https://github.com/Claire",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "andregamma",
+      "name": "André Gama",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/31011359?v=4",
+      "profile": "https://hazeforum.com/",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "mbernardeau",
+      "name": "Mathias Bernardeau",
+      "avatar_url": "https://avatars0.githubusercontent.com/u/7049049?v=4",
+      "profile": "https://github.com/mbernardeau",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "Antoineoili",
+      "name": "Antoine Oili",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/50737365?v=4",
+      "profile": "https://github.com/Antoineoili",
+      "contributions": [
+        "doc"
+      ]
+    },
+    {
+      "login": "dev-oswld",
+      "name": "Oswld TC",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/40254158?v=4",
+      "profile": "https://twitter.com/dev_oswld",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "ZhiyueYi",
+      "name": "Zhiyue Yi",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/8545277?v=4",
+      "profile": "https://yizhiyue.me",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "aliruss",
+      "name": "Ali khalili",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/32896351?v=4",
+      "profile": "https://github.com/aliruss",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "niusha-paks",
+      "name": "Niusha Pakseresht",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/9018054?v=4",
+      "profile": "https://pakseresht.eu/",
+      "contributions": [
+        "translation"
+      ]
+    },
+    {
+      "login": "david-dasilva",
+      "name": "David Da Silva",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/372391?v=4",
+      "profile": "https://github.com/david-dasilva",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
   "projectName": "open-source-promotion-cheat-sheet",
   "projectOwner": "zenika-open-source",
   "repoType": "github",
-  "repoHost": "https://github.com"
+  "repoHost": "https://github.com",
+  "commitConvention": "none"
 }

@@ -10,15 +10,22 @@
 
 <h1 align="center">Open source promotion cheat sheet</h1>
 
-
-> This cheat sheet summarizes important steps you should follow to promote your open-source project in the best conditions. You can click items to expand and get more information from a topic. 
+> This cheat sheet summarizes important steps you should follow to promote your open source project in the best conditions. You can click items to expand and get more information from a topic. 
 
 List of available languages:
 
 - [English](./README.md)
 - [Français](./README-fr.md)
+- [Deutsch](./README-de.md)
+- [Español](./README-es.md)
+- [简体中文](./README-zh-cn.md)
+- [繁體中文](./README-zh-tw.md)
+- [پارسی](./README-fa.md)
+- [Português](./README-pt.md)
 
 A language is missing? Want to improve this cheat sheet? [Contributions are welcome](./CONTRIBUTING.md)!
+
+[A PDF version of this cheat sheet is available here.](./pdf/cheat-sheet.pdf)
 
 ## 1. 🎢 Preparation step
 
@@ -64,10 +71,10 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>✨ Provide a demo of your project</summary>
 <p>
 
-> Vistors will want to quickly understand the purpose of your project, how it works and how to use it. Providing a demo is the best way to satisfy users. It could be:
+> Visitors will want to quickly understand the purpose of your project, how it works and how to use it. Providing a demo is the best way to satisfy users. It could be:
 >
->  - An animated GIF demonstrating how your project works
->  - A link to a live demo
+> - An animated GIF demonstrating how your project works
+> - A link to a live demo
 
 </p>
 </details>
@@ -85,7 +92,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>📘 Create a clean and well structured documentation</summary>
 <p>
 
-> Creating a good documentation is probably the most important step. If you have a small documentation, you can include it within your README. Otherwise, you should probably host it in a separate website. Some open-source projects like [vuepress](https://v1.vuepress.vuejs.org) can help you creating clean documentations in a simple way.
+> Creating a good documentation is probably the most important step. If you have a small documentation, you can include it within your README. Otherwise, you should probably host it in a separate website. Some open source projects like [vuepress](https://v1.vuepress.vuejs.org) can help you creating clean documentation in a simple way.
 
  </p>
 </details>
@@ -109,7 +116,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>↗️ Share the project on social media and specialized platforms</summary>
 <p>
 
-> Tell the world about your awesome work! Publish on social media and specialized platforms:
+> Tell the World about your awesome work! Publish on social media and specialized platforms:
 >
 > - [Twitter](https://twitter.com)
 > - [Linkedin](https://www.linkedin.com/)
@@ -133,6 +140,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 >
 > - [medium](https://medium.com/)
 > - [dev.to](https://dev.to/)
+
 </p>
 </details>
 
@@ -209,7 +217,7 @@ A language is missing? Want to improve this cheat sheet? [Contributions are welc
 <summary>🏆 Reward contributors</summary>
 <p>
 
-> Be nice with people that helped you! Some open-source projects like [gatsby](https://github.com/gatsbyjs/gatsby) reward contributors with goodies. If you can't afford that, do a public post (on twitter or other platforms) about the contribution and mention the author ([here is an example of public thanks](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Open a `Contributors` section in your README to publicly thank them or showcase them on your project documentation or website. Here are some examples:
+> Be nice with people that helped you! Some open source projects like [gatsby](https://github.com/gatsbyjs/gatsby) reward contributors with goodies. If you can't afford that, do a public post (on twitter or other platforms) about the contribution and mention the author ([here is an example of public thanks](https://twitter.com/FranckAbgrall/status/1139470547492978688)). Open a `Contributors` section in your README to publicly thank them or showcase them on your project documentation or website. Here are some examples:
 >
 > - [vuepress (contributors README section)](https://github.com/vuejs/vuepress#code-contributors)
 > - [Rythm.js (random highlighted contributor on demo page)](https://okazari.github.io/Rythm.js/)
@@ -270,6 +278,21 @@ Thanks go to these wonderful people:
     <td align="center"><a href="https://github.com/FofoDev"><img src="https://avatars0.githubusercontent.com/u/27639429?v=4" width="100px;" alt="Faustine Godbillot"/><br /><sub><b>Faustine Godbillot</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=FofoDev" title="Documentation">📖</a></td>
     <td align="center"><a href="https://myvirtualstorybook.com/"><img src="https://avatars1.githubusercontent.com/u/5747538?v=4" width="100px;" alt="Benjamin Plouzennec"/><br /><sub><b>Benjamin Plouzennec</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=Okazari" title="Documentation">📖</a></td>
     <td align="center"><a href="https://github.com/Zenigata"><img src="https://avatars1.githubusercontent.com/u/1022393?v=4" width="100px;" alt="Johan Bonneau"/><br /><sub><b>Johan Bonneau</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=Zenigata" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/bpetetot"><img src="https://avatars3.githubusercontent.com/u/516360?v=4" width="100px;" alt="Benjamin Petetot"/><br /><sub><b>Benjamin Petetot</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=bpetetot" title="Documentation">📖</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://nick-hat-boecker.de"><img src="https://avatars0.githubusercontent.com/u/8366071?v=4" width="100px;" alt="NickHatBoecker"/><br /><sub><b>NickHatBoecker</b></sub></a><br /><a href="#translation-NickHatBoecker" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/Claire"><img src="https://avatars2.githubusercontent.com/u/5114096?v=4" width="100px;" alt="Claire Martinez"/><br /><sub><b>Claire Martinez</b></sub></a><br /><a href="#translation-claire" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://hazeforum.com/"><img src="https://avatars2.githubusercontent.com/u/31011359?v=4" width="100px;" alt="André Gama"/><br /><sub><b>André Gama</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=andregamma" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/mbernardeau"><img src="https://avatars0.githubusercontent.com/u/7049049?v=4" width="100px;" alt="Mathias Bernardeau"/><br /><sub><b>Mathias Bernardeau</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=mbernardeau" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://github.com/Antoineoili"><img src="https://avatars1.githubusercontent.com/u/50737365?v=4" width="100px;" alt="Antoine Oili"/><br /><sub><b>Antoine Oili</b></sub></a><br /><a href="https://github.com/zenika-open-source/open-source-promotion-cheat-sheet/commits?author=Antoineoili" title="Documentation">📖</a></td>
+    <td align="center"><a href="https://twitter.com/dev_oswld"><img src="https://avatars1.githubusercontent.com/u/40254158?v=4" width="100px;" alt="Oswld TC"/><br /><sub><b>Oswld TC</b></sub></a><br /><a href="#translation-dev-oswld" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://yizhiyue.me"><img src="https://avatars3.githubusercontent.com/u/8545277?v=4" width="100px;" alt="Zhiyue Yi"/><br /><sub><b>Zhiyue Yi</b></sub></a><br /><a href="#translation-ZhiyueYi" title="Translation">🌍</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://github.com/aliruss"><img src="https://avatars3.githubusercontent.com/u/32896351?v=4" width="100px;" alt="Ali khalili"/><br /><sub><b>Ali khalili</b></sub></a><br /><a href="#translation-aliruss" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://pakseresht.eu/"><img src="https://avatars3.githubusercontent.com/u/9018054?v=4" width="100px;" alt="Niusha Pakseresht"/><br /><sub><b>Niusha Pakseresht</b></sub></a><br /><a href="#translation-niusha-paks" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/david-dasilva"><img src="https://avatars1.githubusercontent.com/u/372391?v=4" width="100px;" alt="David Da Silva"/><br /><sub><b>David Da Silva</b></sub></a><br /><a href="#translation-david-dasilva" title="Translation">🌍</a></td>
   </tr>
 </table>
 
